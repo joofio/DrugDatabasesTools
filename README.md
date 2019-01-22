@@ -3,7 +3,7 @@ Tools for consuming drug information databases with several formats and export t
 
 # WIP
 
-## Drug Databases to Include
+### Drug Databases to Include
 
 * [ChEmbl](https://www.ebi.ac.uk/chembl/downloads)
 * [DrugBank](https://www.drugbank.ca)
@@ -18,5 +18,16 @@ Tools for consuming drug information databases with several formats and export t
 * [ZINC](https://zinc15.docking.org/)
 * [Open Phacts](https://dev.openphacts.org/login)
 * ...
-* Clinical Papers with documentation
-  * BBB 
+
+### Tools
+* RDKit
+* [CDK](https://cdk.github.io/)
+* [Chemopy](https://omictools.com/chemopy-tool)
+* [OpenBabel](https://openbabel.org/docs/dev/Installation/install.html)
+* [PaDEL](http://www.yapcwsoft.com/)
+* [Cinfony](http://cinfony.github.io/)
+* [PyDPI](https://pypi.org/project/pydpi/)
+* [Rcpi](https://academic.oup.com/bioinformatics/article/31/2/279/2365812)
+
+### Drug Literature
+* BBB 
